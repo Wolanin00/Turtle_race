@@ -4,4 +4,6 @@ To start game enter in terminal
 ```
 .\main.py
 ```
-![Screen](./screen/Screen_1.jpg)
+![Screen](./screenshot/Screen1.jpg)
+![Screen](./screenshot/Screen2.jpg)
+![Screen](./screenshot/Screen3.jpg)
